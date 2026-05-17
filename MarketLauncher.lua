@@ -1,1 +1,0 @@
--- full content of the new MarketLauncher.lua here (I will paste the entire script)
