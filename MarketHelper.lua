@@ -1,1 +1,0 @@
--- full MarketHelper content
